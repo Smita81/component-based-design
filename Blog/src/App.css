@@ -1,0 +1,16 @@
+.app-header {
+
+    font-family: Arial, sans-serif;
+}
+
+.app-header {
+    background-color: #1e52bb;
+    display: flex;
+    font-style: italic;
+}
+
+.paragraph {
+    font-style: normal;
+    color: blueviolet;
+    background-color: yellow;
+}
